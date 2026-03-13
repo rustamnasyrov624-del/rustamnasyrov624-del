@@ -34,5 +34,5 @@
 
 ### Контакты
 
-- 📧 rustam_nasyrov_2019@mail.ru
+- 📧 rustamnasyrov624@gmail.com
 - 📱 Telegram: [@nsrv_1618](https://t.me/nsrv_1618)
