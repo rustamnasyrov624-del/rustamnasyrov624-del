@@ -1,38 +1,77 @@
-# Привет, я Рустам 👋
+# Rustam Nasyrov — AI Engineer
 
-**AI-интегратор | Строю продукты и автоматизации с помощью ИИ**
+**Building AI-powered products and automation systems**
 
-Казань, Россия
+Kazan, Russia · [rustamnasyrov624@gmail.com](mailto:rustamnasyrov624@gmail.com) · Telegram: [@nsrv_1618](https://t.me/nsrv_1618)
 
 ---
 
-### Что я делаю
+### About
 
-Я нахожу бизнес-задачи и собираю для них работающие решения из AI-инструментов и API.
-Не пишу код ради кода — строю продукты, которые приносят результат.
+I build working systems at the intersection of LLMs, APIs, and automation — not proof-of-concepts, but things that run in production and produce measurable results. My background spans product co-founding, freelance engineering, and AI integration across video, trading, and business process automation.
 
-### Мои проекты
+---
 
-| Проект | Описание | Стек |
-|--------|----------|------|
-| [VSL Pipeline](https://github.com/rustamnasyrov624-del/vsl-pipeline) | AI-пайплайн автоматизации видеопроизводства | Python, ElevenLabs API, MiniMax, Kling, GPU lipsync |
-| [Polymarket Whale Bot](https://github.com/rustamnasyrov624-del/polymarket-whale-bot) | Бот для отслеживания крупных сделок на Polymarket | Python, Telegram Bot API, Polymarket API |
-| [GSheets AI Automation](https://github.com/rustamnasyrov624-del/gsheets-ai-automation) | Автоматизации Google Sheets с Claude | Google Apps Script, Claude API |
+### Selected Work
 
-### Опыт
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [vsl-pipeline](https://github.com/rustamnasyrov624-del/vsl-pipeline) | AI video production pipeline: script → voiceover → lipsync → final video. Reduced production time from 1 day to 1 hour. | Python, ElevenLabs, MiniMax, Kling |
+| [polymarket-whale-bot](https://github.com/rustamnasyrov624-del/polymarket-whale-bot) | Real-time Telegram alerts for large trades on Polymarket prediction markets | Python, Telegram Bot API |
+| [gsheets-ai-automation](https://github.com/rustamnasyrov624-del/gsheets-ai-automation) | Claude-powered data processing inside Google Sheets: classify, summarize, extract | Google Apps Script, Claude API |
+| [web-pulse](https://github.com/rustamnasyrov624-del/web-pulse) | Personal accountability dashboard tracking a financial turnaround in real time | JavaScript, Supabase |
 
-- 📱 **Telegram Mini-App** — сооснователь Telegram mini-app в экосистеме TON (оборот 40 млн ₽, команда 5+ чел)
-- 🎬 **VSL Automation** — сократил производство видео с 1 дня до 1 часа
-- 🤖 **Автоматизации** — трейдинг-боты, Google Sheets пайплайны, MCP-серверы
-- 🎨 **Веб-дизайн** — 4 года фриланса, управление командой
+---
 
-### Стек
+### Experience
 
-`Claude` `GPT` `Cursor` `Python` `JavaScript` `Node.js`
-`ElevenLabs` `MiniMax` `Kling` `Google Apps Script`
-`REST API` `Telegram Bot API` `MCP` `Figma`
+**Telegram Mini-App** — Co-founder
+Built and scaled a product in the TON ecosystem. 40M RUB in turnover, team of 5+.
 
-### Контакты
+**VSL Automation** — Solo engineer
+Designed and shipped an end-to-end AI video pipeline integrating four external APIs. Reduced manual production time by ~90%.
 
-- 📧 rustamnasyrov624@gmail.com
-- 📱 Telegram: [@nsrv_1618](https://t.me/nsrv_1618)
+**Freelance** — Web design & team lead (4 years)
+Client delivery, scope management, small team coordination.
+
+---
+
+### Stack
+
+LLM APIs: `Claude` `GPT-4`
+Automation: `Python` `Node.js` `Google Apps Script` `MCP`
+Interfaces & tooling: `Cursor` `Telegram Bot API` `REST API` `Supabase`
+AI services: `ElevenLabs` `MiniMax` `Kling`
+Design: `Figma` `JavaScript`
+
+---
+
+### GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=rustamnasyrov624-del&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+---
+
+### Open to
+
+AI Engineer · LLM Integration Engineer · Automation Engineer
+Remote preferred. Open to contract and full-time.
+
+---
+
+<details>
+<summary>Русская версия</summary>
+
+**Рустам Насыров — AI-инженер**
+
+Строю AI-продукты и системы автоматизации на базе LLM и API.
+
+Ключевые проекты: пайплайн производства видео (1 день → 1 час), бот для трекинга крупных сделок на Polymarket, автоматизация Google Sheets через Claude.
+
+Опыт: сооснователь Telegram Mini-App (оборот 40 млн ₽, команда 5+ чел), 4 года веб-дизайна и управления командой.
+
+Ищу позицию AI-инженера или разработчика AI-интеграций. Удалённо.
+
+Контакт: [rustamnasyrov624@gmail.com](mailto:rustamnasyrov624@gmail.com) · Telegram: [@nsrv_1618](https://t.me/nsrv_1618)
+
+</details>
