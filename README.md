@@ -16,10 +16,10 @@ I build working systems at the intersection of LLMs, APIs, and automation — no
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| [vsl-pipeline](https://github.com/rustamnasyrov624-del/vsl-pipeline) | AI video production pipeline: script → voiceover → lipsync → final video. Reduced production time from 1 day to 1 hour. | Python, ElevenLabs, MiniMax, Kling |
-| [polymarket-whale-bot](https://github.com/rustamnasyrov624-del/polymarket-whale-bot) | Real-time Telegram alerts for large trades on Polymarket prediction markets | Python, Telegram Bot API |
-| [gsheets-ai-automation](https://github.com/rustamnasyrov624-del/gsheets-ai-automation) | Claude-powered data processing inside Google Sheets: classify, summarize, extract | Google Apps Script, Claude API |
-| [web-pulse](https://github.com/rustamnasyrov624-del/web-pulse) | Personal accountability dashboard tracking a financial turnaround in real time | JavaScript, Supabase |
+| [vsl-pipeline](https://github.com/nasyrov-ai/vsl-pipeline) | AI video production pipeline: script → voiceover → lipsync → final video. Reduced production time from 1 day to 1 hour. | Python, ElevenLabs, MiniMax, Kling |
+| [polymarket-whale-bot](https://github.com/nasyrov-ai/polymarket-whale-bot) | Real-time Telegram alerts for large trades on Polymarket prediction markets | Python, Telegram Bot API |
+| [gsheets-ai-automation](https://github.com/nasyrov-ai/gsheets-ai-automation) | Claude-powered data processing inside Google Sheets: classify, summarize, extract | Google Apps Script, Claude API |
+| [web-pulse](https://github.com/nasyrov-ai/web-pulse) | Personal accountability dashboard tracking a financial turnaround in real time | JavaScript, Supabase |
 
 ---
 
@@ -48,7 +48,7 @@ Design: `Figma` `JavaScript`
 
 ### GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=rustamnasyrov624-del&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=nasyrov-ai&show_icons=true&theme=default&hide_border=true&count_private=true)
 
 ---
 
